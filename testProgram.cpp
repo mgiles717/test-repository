@@ -1,5 +1,5 @@
 //Created by M Giles: 09/03/2021
-//Test C++ program to print Hello World for GitHub repository testing.
+//Test C++ program to print "Hello World" for GitHub repository testing.
 #include iostream
 
 int main(){
